@@ -3,6 +3,8 @@ Welcome to the Human Resources Data Repository! This repository is designed to m
 
 ## Problem Statement 
 
+The goal of this Tableau Dashboard is to analyze the Human resource a using the provided Unified Mentor.
+
 This repository contains raw HR data collected for various HR processes, including recruitment, payroll, performance evaluations, and employee feedback. The goal is to keep all raw data in a standardized format to allow for easy processing, analysis, and reporting.
 
 
