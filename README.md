@@ -20,3 +20,5 @@ This repository contains raw HR data collected for various HR processes, includi
 
 ## Getting Started
 
+https://github.com/Dihnu/Human-Resources-Analyst
+
