@@ -18,3 +18,5 @@ This repository contains raw HR data collected for various HR processes, includi
 - **`performance_ratings.csv`**: Contains performance evaluation ratings for employees, including factors such as productivity, communication, and teamwork.
 - **`exit_survey.csv`**: A record of surveys completed by employees who are leaving the organization.
 
+## Getting Started
+
