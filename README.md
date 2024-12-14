@@ -24,3 +24,13 @@ https://github.com/Dihnu/Human-Resources-Analyst
 
 ## Link to the Dataset
 
+https://public.tableau.com/app/profile/dinesh.s3231/viz/HumanResource_17340826610820/EmployeeDemographics?publish=yes
+
+https://public.tableau.com/app/profile/dinesh.s3231/viz/HumanResource_17340826610820/EmployeeTurnover?publish=yes
+
+https://public.tableau.com/app/profile/dinesh.s3231/viz/HumanResource_17340826610820/HiringTrends?publish=yes
+
+https://public.tableau.com/app/profile/dinesh.s3231/viz/HumanResource_17340826610820/PerformanceMetrics?publish=yes
+
+https://public.tableau.com/app/profile/dinesh.s3231/viz/HumanResource_17340826610820/EmployeeSatisfaction?publish=yes
+
