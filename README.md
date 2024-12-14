@@ -34,3 +34,15 @@ https://public.tableau.com/app/profile/dinesh.s3231/viz/HumanResource_1734082661
 
 https://public.tableau.com/app/profile/dinesh.s3231/viz/HumanResource_17340826610820/EmployeeSatisfaction?publish=yes
 
+![Employee Demographics](https://github.com/user-attachments/assets/71b77ba0-b48f-4e09-a0e5-625963b4e150)
+
+![Employee Turnover](https://github.com/user-attachments/assets/eb2cdf21-6dec-4c4c-84cf-e69651bc621c)
+
+![_Hiring Trends](https://github.com/user-attachments/assets/44224e3a-7cc6-4d68-91bf-1eb77648de05)
+
+![_Performance Metrics](https://github.com/user-attachments/assets/7967b85f-9ac6-4015-9718-74ac52692dc9)
+
+![Employee Satisfaction](https://github.com/user-attachments/assets/3ced3ab4-3fc4-41b2-a659-dac34d52dd50)
+
+
+
